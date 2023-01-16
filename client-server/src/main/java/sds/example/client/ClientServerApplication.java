@@ -1,16 +1,16 @@
-package sds.example;
+package sds.example.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Resource Server
+ * Client Server for Oauth2 application
  *
  * @author Sébastien De Santis
  */
 @SpringBootApplication
-public class ResourceServerApplication {
+public class ClientServerApplication {
     public static void main(String[] args) {
-        SpringApplication.run(ResourceServerApplication.class, args);
+        SpringApplication.run(ClientServerApplication.class, args);
     }
 }

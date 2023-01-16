@@ -1,4 +1,4 @@
-package sds.example.configuration;
+package sds.example.resource.configuration;
 
 import com.nimbusds.jose.EncryptionMethod;
 import com.nimbusds.jose.JWEAlgorithm;

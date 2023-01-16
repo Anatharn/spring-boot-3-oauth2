@@ -1,4 +1,4 @@
-package sds.example.controller;
+package sds.example.resource.controller;
 
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.oauth2.jwt.Jwt;
